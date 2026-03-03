@@ -103,7 +103,7 @@ This ensures consistency between training data and live input.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 /data                ← (Create this folder and extract dataset here)
 archive.zip          ← MNIST dataset (compressed)
 
@@ -118,7 +118,8 @@ W3.npy
 b3.npy
 W4.npy
 b4.npy
-📦 Dataset Setup
+
+Dataset Setup
 
 The dataset is compressed as archive.zip because it exceeds GitHub's file size limits.
 
