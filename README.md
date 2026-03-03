@@ -133,12 +133,7 @@ data/
 
 Place the extracted dataset contents inside the data folder
 
-Final structure should look like:
-
-/data
-    train-images-idx3-ubyte
-    train-labels-idx1-ubyte
-    ...
+---
 
 ## How To Run
 
