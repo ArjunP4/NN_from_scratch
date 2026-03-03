@@ -125,13 +125,11 @@ The dataset is compressed as archive.zip because it exceeds GitHub's file size l
 
 Setup Instructions:
 
-Extract archive.zip
-
 Create a folder named:
 
 data/
 
-Place the extracted dataset contents inside the data folder
+Extract archive.zip inside the data folder
 
 ---
 
